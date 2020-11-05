@@ -1,3 +1,14 @@
+# Info about application
+This application was implemented with react.js and redux to show the currency rates of dolar, euro and real.
+
+The application is connect via websockets with a java application in the URL http://localhost:8080/currencyquotation.
+
+The spring boot application must be started, so the react application can get the currency rates.
+
+More info write to email yadicksonvasquez@gmail.com
+
+Last Update: 05/11/2020
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
